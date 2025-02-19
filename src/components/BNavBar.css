@@ -1,0 +1,39 @@
+.Bnavbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.452);
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+  }
+  
+  .Bnavbar h1 {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .Bnavbar-links {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Bnavbar-links .Bnav-item {
+    display: inline;
+  }
+  
+  .Bnav-link {
+    color: white;
+    font-size: 18px;
+  }
+  
+  .Bnav-link:hover {
+    text-decoration: underline;
+  }
