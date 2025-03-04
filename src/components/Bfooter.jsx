@@ -1,4 +1,4 @@
-import React from 'react';// If you have specific styles for the navbar, you can create a Navbar.css file
+import React from 'react';
 import './Bfooter.css';
 
 const Bfooter= () => {
