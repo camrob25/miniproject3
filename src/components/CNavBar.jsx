@@ -1,4 +1,4 @@
-import React from 'react';// If you have specific styles for the navCar, you can create a NavCar.css file
+import React from 'react';
 import './CNavbar.css';
 
 const CNavbar = () => {
